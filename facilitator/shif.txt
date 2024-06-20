@@ -1,2 +1,0 @@
-name:shiruff
-device:laptop
